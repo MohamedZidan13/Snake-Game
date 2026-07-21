@@ -68,7 +68,7 @@ python main.py
 
 ## 📸 Screenshot
 
-![Snake Game](images/screenshot.png)
+![Snake Game](images/Screenshot%20(269).png)
 
 ---
 
